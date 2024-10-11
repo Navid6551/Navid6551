@@ -2,7 +2,7 @@
 <br>
 <br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/770212629461336085?theme=dark)](https://discord.com/users/770212629461336085)
-<br>
+
 ## 💻 Languages & Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navid6551&layout=compact)](https://github.com/Navid6551)
 <br>
