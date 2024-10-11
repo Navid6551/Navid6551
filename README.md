@@ -1,6 +1,3 @@
-## Discord
-<br>
-<br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/770212629461336085?theme=dark)](https://discord.com/users/770212629461336085)
 
 ## 💻 Languages & Skills
