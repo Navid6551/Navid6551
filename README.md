@@ -6,4 +6,7 @@
 <br>
 [![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,mysql,git,vscode,solidjs,tailwind,postgres&theme=dark)](https://github.com/Navid6551)
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="GlittchGamer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
