@@ -9,4 +9,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2030%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+TypeScript               12 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+megagame                 12 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    12 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 04/11/2025 18:47:53 UTC
 <!--END_SECTION:waka-->
