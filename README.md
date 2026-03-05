@@ -17,23 +17,23 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               8 hrs 22 mins       ██████████████████████░░░   87.42 % 
-Lua                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TypeScript               3 hrs 57 mins       █████████████████████░░░░   85.54 % 
+Lua                      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-v-code                   8 hrs 55 mins       ███████████████████████░░   92.88 % 
-Frenzy                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-frenzyrp.net             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-nopixel3                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-frenzy-queue             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+v-code                   4 hrs 29 mins       ████████████████████████░   97.17 % 
+nopixel3                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Frenzy                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+frenzy-queue             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+v-vehicles               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  9 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2026 19:10:13 UTC
+ Last Updated on 05/03/2026 19:39:43 UTC
 <!--END_SECTION:waka-->
