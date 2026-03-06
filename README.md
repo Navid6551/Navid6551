@@ -17,23 +17,21 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               3 hrs 57 mins       █████████████████████░░░░   85.54 % 
-Lua                      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TypeScript               38 mins             █████████████████████░░░░   83.07 % 
+JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Lua                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-v-code                   4 hrs 29 mins       ████████████████████████░   97.17 % 
-nopixel3                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Frenzy                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-frenzy-queue             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-v-vehicles               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+v-code                   42 mins             ███████████████████████░░   91.16 % 
+nopixel3                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+v-vehicles               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  46 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/03/2026 19:39:43 UTC
+ Last Updated on 06/03/2026 19:06:54 UTC
 <!--END_SECTION:waka-->
