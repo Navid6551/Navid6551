@@ -17,21 +17,18 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               38 mins             █████████████████████░░░░   83.07 % 
-JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Lua                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               31 mins             ████████████████████░░░░░   81.76 % 
+JavaScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Lua                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 🐱‍💻 Projects: 
-v-code                   42 mins             ███████████████████████░░   91.16 % 
-nopixel3                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-v-vehicles               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+v-code                   34 mins             ██████████████████████░░░   89.46 % 
+nopixel3                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.00 % 
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/03/2026 19:06:54 UTC
+ Last Updated on 07/03/2026 18:54:16 UTC
 <!--END_SECTION:waka-->
