@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2011%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,15 +17,23 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 36 mins       ██████████████░░░░░░░░░░░   57.11 % 
+JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Frenzy                   3 hrs 34 mins       ██████████████░░░░░░░░░░░   56.74 % 
+openfront-apis           53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+OpenFrontIO-main         36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+api                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+openfront-api            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/04/2026 19:34:47 UTC
+ Last Updated on 02/04/2026 19:28:03 UTC
 <!--END_SECTION:waka-->
