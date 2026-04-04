@@ -17,23 +17,23 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               3 hrs 35 mins       ██████████████░░░░░░░░░░░   57.08 % 
-JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+TypeScript               3 hrs 35 mins       ██████████████░░░░░░░░░░░   57.27 % 
+JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🐱‍💻 Projects: 
-Frenzy                   3 hrs 34 mins       ██████████████░░░░░░░░░░░   56.85 % 
-openfront-apis           53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-OpenFrontIO-main         36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-api                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-openfront-api            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Frenzy                   3 hrs 33 mins       ██████████████░░░░░░░░░░░   56.71 % 
+openfront-apis           53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+OpenFrontIO-main         36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+api                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+openfront-api            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 💻 Operating System: 
-Windows                  6 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2026 19:08:47 UTC
+ Last Updated on 04/04/2026 19:06:23 UTC
 <!--END_SECTION:waka-->
