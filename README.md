@@ -17,15 +17,15 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ace-website              41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2026 20:28:20 UTC
+ Last Updated on 27/05/2026 20:31:35 UTC
 <!--END_SECTION:waka-->
