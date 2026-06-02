@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,23 +17,23 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               17 hrs 12 mins      ██████████████░░░░░░░░░░░   57.82 % 
-JavaScript               3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Other                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Lua                      1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+TypeScript               12 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   37.50 % 
+Lua                      12 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.99 % 
+JavaScript               3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Bash                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🐱‍💻 Projects: 
-ace-website              18 hrs 22 mins      ███████████████░░░░░░░░░░   61.76 % 
-Frenzy                   5 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-FrenzyV3                 2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-prp-phone                1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-ace-mirror               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+ace-website              13 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   41.83 % 
+FrenzyV3                 13 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   40.38 % 
+Frenzy                   2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+prp-phone                1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+ace-mirror               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 💻 Operating System: 
-Windows                  29 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/06/2026 21:46:37 UTC
+ Last Updated on 02/06/2026 21:27:21 UTC
 <!--END_SECTION:waka-->
