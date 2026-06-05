@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,5 +35,5 @@ Windows                  34 hrs 20 mins      ███████████�
 ```
 
 
- Last Updated on 04/06/2026 20:29:37 UTC
+ Last Updated on 05/06/2026 20:21:21 UTC
 <!--END_SECTION:waka-->
