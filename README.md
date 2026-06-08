@@ -9,29 +9,31 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2012%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Lua                      19 hrs 9 mins       ██████████████░░░░░░░░░░░   55.62 % 
-TypeScript               5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-HTML                     3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-JavaScript               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Text                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Lua                      10 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.60 % 
+TypeScript               8 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+HTML                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+JavaScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Text                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🐱‍💻 Projects: 
-FrenzyV3                 22 hrs 15 mins      ████████████████░░░░░░░░░   64.61 % 
-ace-website              5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Frenzy                   3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-sobhan target            2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-frenzyrp.net             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+FrenzyV3                 12 hrs 46 mins      ████████████░░░░░░░░░░░░░   46.51 % 
+ace-website              7 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+Frenzy                   3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+sobhan target            2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+frenzyrp.net             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-Windows                  34 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/06/2026 19:52:27 UTC
+ Last Updated on 08/06/2026 20:37:18 UTC
 <!--END_SECTION:waka-->
