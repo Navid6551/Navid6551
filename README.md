@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,23 +17,23 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Lua                      10 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.60 % 
-TypeScript               8 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-HTML                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-JavaScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Text                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+TypeScript               10 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   36.89 % 
+Lua                      8 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.88 % 
+HTML                     3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+JavaScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Text                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🐱‍💻 Projects: 
-FrenzyV3                 12 hrs 46 mins      ████████████░░░░░░░░░░░░░   46.51 % 
-ace-website              7 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-Frenzy                   3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-sobhan target            2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-frenzyrp.net             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+FrenzyV3                 11 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   39.51 % 
+ace-website              9 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   35.21 % 
+Frenzy                   3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+sobhan target            2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+frenzyrp.net             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Windows                  27 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/06/2026 20:37:18 UTC
+ Last Updated on 09/06/2026 20:23:34 UTC
 <!--END_SECTION:waka-->
