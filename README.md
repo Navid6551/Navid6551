@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,23 +17,23 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               25 hrs 9 mins       █████████████████████░░░░   82.71 % 
-Bash                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-JavaScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Prisma                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Nginx configuration file 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+TypeScript               24 hrs 16 mins      ████████████████████░░░░░   78.78 % 
+JavaScript               1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Bash                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Prisma                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Other                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🐱‍💻 Projects: 
-ace-website              25 hrs 40 mins      █████████████████████░░░░   84.41 % 
-Frenzy                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-8rp                      1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-frenzyrp.net             1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-FrenzyV3                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+ace-website              25 hrs 23 mins      █████████████████████░░░░   82.42 % 
+Frenzy                   1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+8rp                      1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+frenzyrp.net             1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+FrenzyV3                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 💻 Operating System: 
-Windows                  30 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/06/2026 20:03:43 UTC
+ Last Updated on 15/06/2026 21:29:02 UTC
 <!--END_SECTION:waka-->
