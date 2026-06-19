@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2016%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,23 +17,23 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               13 hrs 20 mins      ████████████████░░░░░░░░░   64.23 % 
-JavaScript               2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Bash                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Nginx configuration file 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Prisma                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+TypeScript               11 hrs 7 mins       ████████████████░░░░░░░░░   62.14 % 
+JavaScript               2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 🐱‍💻 Projects: 
-ace-website              15 hrs 4 mins       ██████████████████░░░░░░░   72.59 % 
-Frenzy                   3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-FrenzyV3                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-8rp                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-No-Problem-Project       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+ace-website              11 hrs 15 mins      ████████████████░░░░░░░░░   62.86 % 
+Frenzy                   3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+ace-mdt                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+FrenzyV3                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+No-Problem-Project       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Operating System: 
-Windows                  20 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/06/2026 20:42:17 UTC
+ Last Updated on 19/06/2026 20:11:15 UTC
 <!--END_SECTION:waka-->
