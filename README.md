@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-577%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,23 +17,23 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               3 hrs 57 mins       ███████████░░░░░░░░░░░░░░   44.79 % 
-JavaScript               1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Lua                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+TypeScript               4 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.86 % 
+JavaScript               1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Other                    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Lua                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Nginx configuration file 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 🐱‍💻 Projects: 
-Frenzy                   3 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   41.76 % 
-ace-mdt                  2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-ace-website              1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-FrenzyV3                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-No-Problem-Project       20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Frenzy                   3 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.58 % 
+ace-mdt                  2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+ace-website              1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+FrenzyV3                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+ace-sockets              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 💻 Operating System: 
-Windows                  8 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/06/2026 21:17:26 UTC
+ Last Updated on 23/06/2026 20:29:33 UTC
 <!--END_SECTION:waka-->
