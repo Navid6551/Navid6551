@@ -17,23 +17,23 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.60 % 
-JavaScript               2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-Lua                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+TypeScript               2 hrs 53 mins       ████████████░░░░░░░░░░░░░   47.57 % 
+JavaScript               1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Lua                      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🐱‍💻 Projects: 
-ace-website              2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.72 % 
-Frenzy                   2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.85 % 
-ace-mdt                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-FrenzyV3                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-ACE                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+ace-website              2 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.52 % 
+Frenzy                   1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   30.85 % 
+FrenzyV3                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+ACE                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+gx_logsystem             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 💻 Operating System: 
-Windows                  7 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/06/2026 20:20:10 UTC
+ Last Updated on 30/06/2026 20:25:49 UTC
 <!--END_SECTION:waka-->
