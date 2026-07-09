@@ -17,23 +17,22 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               4 hrs 42 mins       ████████████████░░░░░░░░░   62.82 % 
-JavaScript               1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-CSS                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Lua                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Prisma                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+TypeScript               4 hrs 18 mins       ███████████████████░░░░░░   76.60 % 
+JavaScript               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Lua                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Prisma                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🐱‍💻 Projects: 
-Frenzy                   4 hrs 44 mins       ████████████████░░░░░░░░░   63.32 % 
-ace-website              2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-ace-mdt                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-No-Problem-Project       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-data                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Frenzy                   2 hrs 39 mins       ████████████░░░░░░░░░░░░░   47.23 % 
+ace-website              2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.51 % 
+ace-mdt                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+data                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 Operating System: 
-Windows                  7 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/07/2026 19:59:33 UTC
+ Last Updated on 09/07/2026 20:14:40 UTC
 <!--END_SECTION:waka-->
