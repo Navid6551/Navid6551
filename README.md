@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,23 +17,23 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               5 hrs 12 mins       ███████████████░░░░░░░░░░   59.46 % 
-Lua                      1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-INI                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+TypeScript               3 hrs 30 mins       ███████████░░░░░░░░░░░░░░   42.56 % 
+Lua                      2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+Unity3D Asset            40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🐱‍💻 Projects: 
-rpm                      2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-Frenzy                   1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-ace-website              1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-v-code                   1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-FrenzyV3                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+rpm                      2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+ace-website              1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+v-code                   1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+[vehicles]               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+FrenzyV3                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 
 💻 Operating System: 
-Windows                  8 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 19:55:53 UTC
+ Last Updated on 14/07/2026 19:50:01 UTC
 <!--END_SECTION:waka-->
