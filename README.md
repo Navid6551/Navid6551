@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-604%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2047%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,23 +17,23 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               5 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.26 % 
-Lua                      2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Unity3D Asset            1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-JavaScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-CSS                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+TypeScript               3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.11 % 
+Lua                      1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Unity3D Asset            1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+JavaScript               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+CSS                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 🐱‍💻 Projects: 
-rpm                      2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-v-code                   1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-ace-mdt                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-FrenzyV3                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Frenzy                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+rpm                      2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+ace-mdt                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+v-code                   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Frenzy                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+nopixel3                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 
 💻 Operating System: 
-Windows                  12 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/07/2026 19:37:43 UTC
+ Last Updated on 18/07/2026 19:38:51 UTC
 <!--END_SECTION:waka-->
