@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,23 +17,23 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               3 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.46 % 
-Unity3D Asset            1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-JavaScript               55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Lua                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+TypeScript               2 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.66 % 
+Unity3D Asset            1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+JavaScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Lua                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🐱‍💻 Projects: 
-ace-mdt                  1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-v-code                   1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Frenzy                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-[vehicles]               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-nopixel3                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+ace-mdt                  1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+v-code                   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Frenzy                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+[vehicles]               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+nopixel3                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 
 💻 Operating System: 
-Windows                  6 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/07/2026 19:37:45 UTC
+ Last Updated on 20/07/2026 20:02:34 UTC
 <!--END_SECTION:waka-->
