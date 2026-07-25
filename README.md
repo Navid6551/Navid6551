@@ -9,28 +9,27 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid6551" alt="Navid6551" /> </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-723%20hrs%2035%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               27 mins             █████████████████████░░░░   82.30 % 
-Lua                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               13 mins             ██████████████████░░░░░░░   71.19 % 
+Lua                      5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🐱‍💻 Projects: 
-v-code                   23 mins             ██████████████████░░░░░░░   71.28 % 
-Frenzy                   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-FrenzyV3                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-ace-website              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+v-code                   11 mins             ██████████████░░░░░░░░░░░   57.58 % 
+Frenzy                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+FrenzyV3                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 19:52:48 UTC
+ Last Updated on 25/07/2026 19:40:14 UTC
 <!--END_SECTION:waka-->
