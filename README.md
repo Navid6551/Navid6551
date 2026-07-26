@@ -17,19 +17,15 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               13 mins             ██████████████████░░░░░░░   71.19 % 
-Lua                      5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-v-code                   11 mins             ██████████████░░░░░░░░░░░   57.58 % 
-Frenzy                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-FrenzyV3                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/07/2026 19:40:14 UTC
+ Last Updated on 26/07/2026 19:41:46 UTC
 <!--END_SECTION:waka-->
